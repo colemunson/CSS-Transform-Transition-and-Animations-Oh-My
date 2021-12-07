@@ -1,3 +1,4 @@
 main {
+    transform: scale(2.2, 2.2) translatey(150px) skewX(-10deg) rotate(-10deg);
 
 }
